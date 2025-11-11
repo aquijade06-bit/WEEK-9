@@ -1,7 +1,5 @@
 package week09_tugas;
 
-import week09.tugas.SmartPhone;
-
 public class Main {
 	public static void main(String[] args) {
 		SmartPhone phone = new SmartPhone("Samsung" , "A 71");
